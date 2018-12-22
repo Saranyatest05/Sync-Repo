@@ -11,6 +11,7 @@ public class loops
 			{
 				/*System.out.println(i);*/
 				System.out.println(j);
+				System.out.println(i+j);
 			}
 			
 		}
